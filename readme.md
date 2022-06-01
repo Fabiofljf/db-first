@@ -17,4 +17,4 @@ Colore:                     [Nero]               VARCHAR(25)              NOT NU
 Descrizione                 [Lorem10]            TEXT                     NULL
 Immatricolazione:           [2022]               YEAR                     NOT NULL
 Prezzo:                     [14.000,00]          DECIMAL(6, 2)            NOT NULL
-Classe di emissione:        [Euro8]              VARCHAR(6)               NOT NULL
+Classe di emissione:        [Euro8]              VARCHAR(6)               NOT NULL 
